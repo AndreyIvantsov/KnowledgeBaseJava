@@ -2,6 +2,6 @@
 
 ## Основы языка
 
-* [Типы данных](README.md)
+* [Типы данных](osnovy-yazyka/tipy-dannykh.md)
 * [Переменные и константы](osnovy-yazyka/peremennye-i-konstanty.md)
 * [Операции](osnovy-yazyka/operacii.md)
