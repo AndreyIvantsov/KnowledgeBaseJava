@@ -2,4 +2,4 @@
 
 Вставлена картинка
 
-![Логотип Java](broken-reference)
+![Логотип Java](<../.gitbook/assets/img\_01 (1).png>)
