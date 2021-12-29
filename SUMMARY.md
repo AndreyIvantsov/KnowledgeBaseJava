@@ -5,6 +5,10 @@
 ## Основы языка
 
 * [Типы данных](osnovy-yazyka/tipy-dannykh.md)
-* [Управляющие последовательности](osnovy-yazyka/upravlyayushchie-posledovatelnosti)
+* [Управляющие последовательности](osnovy-yazyka/upravlyayushie-posledovatelnosti.md)
 * [Переменные и константы](osnovy-yazyka/peremennye-i-konstanty.md)
 * [Операции](osnovy-yazyka/operacii.md)
+
+***
+
+* [Управляющие последовательности](upravlyayushie-posledovatelnosti.md)
