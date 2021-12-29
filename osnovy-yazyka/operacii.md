@@ -2,4 +2,4 @@
 
 Вставлена картинка
 
-![Логотип Java](../.gitbook/assets/img_01.png)
+![Логотип Java](../.gitbook/assets/folder/img_01.png)
