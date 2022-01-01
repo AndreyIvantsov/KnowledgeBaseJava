@@ -4,7 +4,7 @@
 
 ## Основы языка
 
-* [Управляющие последовательности](<README (1).md>)
-* [Типы данных](<README (1) (1).md>)
+* [Управляющие последовательности](osnovy-yazyka/upravlyayushie-posledovatelnosti.md)
+* [Типы данных](osnovy-yazyka/tipy-dannykh.md)
 * [Переменные и константы](osnovy-yazyka/peremennye-i-konstanty.md)
 * [Операции](osnovy-yazyka/operacii.md)
