@@ -9,4 +9,5 @@ description: >-
 
 Полезные ссылки:
 
+* [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/index.html)
 * #### [Java — Самоучитель](http://proglang.su/java)
