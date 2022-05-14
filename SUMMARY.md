@@ -23,3 +23,4 @@
   * [Встроенные исключения](isklyucheniya/vstroennye-isklyucheniya.md)
 * [Интерфейсы](interfeisy/README.md)
   * [Абстрактный класс vs. интерфейс](interfeisy/abstraktnyi-klass-vs.-interfeis.md)
+* [Оператор instanceof](operator-instanceof.md)
