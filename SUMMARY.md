@@ -15,3 +15,4 @@
 * [Ввод с клавиатуры](vvod-s-klaviatury.md)
 * [Особенности строк](osobennosti-strok.md)
 * [Коллекции](kollekcii.md)
+* [Дата и время](data-i-vremya.md)
