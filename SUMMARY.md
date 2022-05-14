@@ -12,7 +12,7 @@
 
 ***
 
-* [Модификаторы](modifikatory/README.md)
+* [Модификаторы](modifikatory.md)
   * [Модификаторы доступа](modifikatory/modifikatory-dostupa.md)
   * [Модификаторы используемые не для доступа](modifikatory/modifikatory-ispolzuemye-ne-dlya-dostupa.md)
 * [Ввод с клавиатуры](vvod-s-klaviatury.md)
