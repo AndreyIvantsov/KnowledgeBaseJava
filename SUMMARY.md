@@ -10,3 +10,4 @@
 ***
 
 * [Модификаторы](modifikatory.md)
+* [Ввод с клавиатуры](vvod-s-klaviatury.md)
