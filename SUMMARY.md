@@ -21,4 +21,5 @@
 * [Дата и время](data-i-vremya.md)
 * [Исключения](isklyucheniya/README.md)
   * [Встроенные исключения](isklyucheniya/vstroennye-isklyucheniya.md)
-* [Интерфейсы](interfeisy.md)
+* [Интерфейсы](interfeisy/README.md)
+  * [Абстрактный класс vs. интерфейс](interfeisy/abstraktnyi-klass-vs.-interfeis.md)
