@@ -5,6 +5,7 @@
 ## Основы языка
 
 * [Типы данных](<README (1).md>)
+* [Литералы](osnovy-yazyka/literaly.md)
 * [Переменные и константы](osnovy-yazyka/peremennye-i-konstanty.md)
 * [Операторы](osnovy-yazyka/operacii.md)
 * [Управляющие последовательности](osnovy-yazyka/upravlyayushie-posledovatelnosti.md)
