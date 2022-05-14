@@ -6,7 +6,7 @@
 
 #### Иерархия исключений
 
-![](<../.gitbook/assets/изображение (3) (1).png>)
+![](<../.gitbook/assets/изображение (3) (1) (1).png>)
 
 ### Методы исключений <a href="#metody-isklyucheniy" id="metody-isklyucheniy"></a>
 
