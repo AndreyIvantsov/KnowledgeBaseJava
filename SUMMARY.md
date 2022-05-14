@@ -14,5 +14,7 @@
 * [Модификаторы](modifikatory.md)
 * [Ввод с клавиатуры](vvod-s-klaviatury.md)
 * [Особенности строк](osobennosti-strok.md)
-* [Коллекции](kollekcii.md)
+* [Коллекции](kollekcii/README.md)
+  * [ArrayList и LinkedList](kollekcii/arraylist-i-linkedlist.md)
+  * [Set и Map](kollekcii/set-i-map.md)
 * [Дата и время](data-i-vremya.md)
