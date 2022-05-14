@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Java](README.md)
+
 ## Основы языка
 
-* [Типы данных](README.md)
+* [Типы данных](<README (1).md>)
 * [Переменные и константы](osnovy-yazyka/peremennye-i-konstanty.md)
 * [Операции](osnovy-yazyka/operacii.md)
 * [Управляющие последовательности](osnovy-yazyka/upravlyayushie-posledovatelnosti.md)
