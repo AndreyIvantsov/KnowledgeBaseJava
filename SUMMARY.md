@@ -18,3 +18,5 @@
   * [ArrayList и LinkedList](kollekcii/arraylist-i-linkedlist.md)
   * [Set и Map](kollekcii/set-i-map.md)
 * [Дата и время](data-i-vremya.md)
+* [Исключения](isklyucheniya/README.md)
+  * [Встроенные исключения](isklyucheniya/vstroennye-isklyucheniya.md)
